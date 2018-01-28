@@ -1,0 +1,10 @@
+{
+  "name": "shr-blog",
+  "version": "1.0.0",
+  "description": "Simple blog",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "author": "Ilia Eliseev"
+}

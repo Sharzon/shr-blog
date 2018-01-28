@@ -1,0 +1,14 @@
+{
+    "name": "sharzon/shr-blog",
+    "description": "Simple blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ilia Eliseev",
+            "email": "sharzon.soft@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "app"}
+    }
+}
